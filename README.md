@@ -36,7 +36,8 @@ I have used several charts and visualizations to gain insights into the employee
 4. Area chart: The chart displayed the attrition count by years in the company. The data showed that the highest peak was after completing the first year in the company, followed by completing 10 years, and then completing 5 years.
 
 5. Stacked bar chart: The chart showed the top job roles with the highest attrition count. The data showed that laboratory technicians had the highest attrition count of 62, followed by sales executives and research scientists.
-
+6. Matrix table: The table displayed job roles by job satisfaction scores, highlighting the big numbers in red. The data showed that laboratory technicians had the highest attrition count, followed by sales executives and research scientists.
+   
 Some suggestions for the HR department to improve employee performance and retention:
 
 1. Investigate the reasons behind the higher attrition rate among male employees and take appropriate measures to address their concerns and needs.
