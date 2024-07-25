@@ -1,6 +1,7 @@
 ## HR-Analytics-Dashboard-to-Improve-Employee-Performance-and-Retention
 
-![Dashboard](https://github.com/user-attachments/assets/6c32a567-0f29-4278-9e4c-fe887fa33624)
+![Screenshot (757)](https://github.com/user-attachments/assets/fbdbc6d3-9be6-4a0b-b805-070da373898a)
+
 
 **Objective:**
 The purpose of this project is to help an organization to improve employee performance and reduce attrition by creating an HR analytics dashboard. The dashboard provides valuable insights into employee data, which can be used to make data-driven decisions and improve employee satisfaction and retention.
